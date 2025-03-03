@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarketPetProject</string>
+    <string name="text_Pay">С картой ⓎПэй</string>
+    <string name="card_price_stroka">/ без: </string>
+    <string name="card_delivery_stroka">Доставка</string>
+    <string name="card_delivery_PVZ">○ Завтра, пункт выдачи</string>
+    <string name="tovar_desc">О товаре</string>
+</resources>
